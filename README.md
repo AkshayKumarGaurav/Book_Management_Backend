@@ -2,7 +2,7 @@
 
 # Book Management Backend
 
-The system utilizes JSON Web Tokens (JWT) for user authentication and authorization, offering APIs for managing book entries, with password encryption ensured through bcrypt for heightened security. You can see my [Book Management Backend](https://book-management-backend-vny5.onrender.com/)
+The system utilizes JSON Web Tokens (JWT) for user authentication and authorization, offering APIs for managing book entries, with password encryption ensured through bcrypt for heightened security. You can see my deployed [Book Management Backend](https://book-management-backend-vny5.onrender.com/)
 
 
 ## Features
